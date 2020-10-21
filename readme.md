@@ -1,5 +1,9 @@
 # Quizr
 
+## Team
+
+- John Nguyen (Client)
+
 ## Spinup Instructions
 
 Start the go server
