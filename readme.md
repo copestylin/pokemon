@@ -5,13 +5,8 @@
 - John Nguyen (Client)
 - Vinnie Willats (Dev)
 - Nathan Minissale (Dev)
-
-<br />
-
-### **Developers**
-- Aaron Childs 
-
-
+- Marc Copes (Dev)
+- Aaron Childs (Dev)
 
 ## Spinup Instructions
 
