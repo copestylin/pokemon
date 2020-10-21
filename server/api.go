@@ -1,0 +1,5 @@
+package quizr
+
+func NewApi() {
+
+}
