@@ -4,6 +4,7 @@
 
 - John Nguyen (Client)
 - Vinnie Willats (Dev)
+- Nathan Minissale (Dev)
 
 <br />
 
