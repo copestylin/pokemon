@@ -5,6 +5,13 @@
 - John Nguyen (Client)
 - Vinnie Willats (Dev)
 
+<br />
+
+### **Developers**
+- Aaron Childs 
+
+
+
 ## Spinup Instructions
 
 Start the go server
